@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://sapedal.com/</loc>
+  <lastmod>2018-09-06T09:15:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://sapedal.com/index.html</loc>
+  <lastmod>2018-09-06T09:15:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sapedal.com/bikeshare.html</loc>
+  <lastmod>2018-09-06T10:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sapedal.com/bikeride.html</loc>
+  <lastmod>2018-09-06T10:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sapedal.com/bikesend.html</loc>
+  <lastmod>2018-09-06T10:48:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sapedal.com/bikeshop.html</loc>
+  <lastmod>2018-09-06T10:34:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sapedal.com/bikeclub.html</loc>
+  <lastmod>2018-09-06T10:32:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://sapedal.com/bikeevent.html</loc>
+  <lastmod>2018-09-06T10:45:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
